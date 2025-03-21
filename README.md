@@ -10,4 +10,4 @@ git remote add origin https://github.com/USER_NAME/REPO_NAME.git
 git branch -M main
 git push -u origin main
 ```
-- Ensure that the files are visible on your repository, and ensure the commit history is maintained. You can view the commit history by clicking on the *3 Commits* right under the Code button, or by going to `https://github.com/USER_NAME/REPO_NAME/commits/main/`.
+- Ensure that the files are visible on your repository, and ensure the commit history is maintained. You can view the commit history by clicking on the *X Commits* right under the Code button, or by going to `https://github.com/USER_NAME/REPO_NAME/commits/main/`.
