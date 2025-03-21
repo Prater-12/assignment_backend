@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "common",
     "secret1",
     "secret2",
+    "newapp",
 ]
 
 MIDDLEWARE = [
